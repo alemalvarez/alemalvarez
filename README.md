@@ -26,7 +26,7 @@ Get in touch: alemalvarez@icloud.com or Discord: aalejandrx
 *   Ideas for cool deep learning helper functions (think tensor-info and beyond!)
 * ️ Auto-scheduler awesomeness ️
 
-** I need help on: **
+**I need help on:**
 
 *  Best practices for production deployment of Flask-React apps in Azure  
 
