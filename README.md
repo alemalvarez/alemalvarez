@@ -1,6 +1,6 @@
 ##  Alejandro here 👋
 
-** Song of the Day:** (Dirge - Death in Vegas)[https://open.spotify.com/track/015SmK4Fvjv13dVwtGoMC0?si=00628507103d4b3f]
+**Song of the Day:** (Dirge - Death in Vegas)[https://open.spotify.com/track/015SmK4Fvjv13dVwtGoMC0?si=00628507103d4b3f]
 
 Get in touch: alemalvarez@icloud.com or Discord: aalejandrx
 
